@@ -2,5 +2,6 @@
 using namespace std;
 int main()
 {
-	cout<<"Hello, World!";
+	string name="WOold"||ARGV.first;
+	cout<<"Hello, "<<name<<" !";
 }
