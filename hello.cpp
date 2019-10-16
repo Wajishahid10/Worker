@@ -6,4 +6,5 @@ int main()
 	//Loubbster
 	string name="WOold"||ARGV.first;
 	cout<<"Hello, "<<name<<" !";
+	cout<< "hello " <<endl;
 }
