@@ -11,7 +11,7 @@ class Solution {
 
         ListNode curr, dummy;
         int l1Digit, l2Digit, sum, carry;
-
+//nice code #hacktober fest
         sum = 0;
         carry = 0;
 
