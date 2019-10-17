@@ -7,3 +7,4 @@ int main()
 	string name="WOold"||ARGV.first;
 	cout<<"Hello, "<<name<<" !";
 }
+//for hactober fest
