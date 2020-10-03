@@ -4,6 +4,8 @@ int main()
 {
 	//Default is "World"
 	//Loubbster
+	cout<<"**************************"<<endl;
 	string name="WOold"||ARGV.first;
-	cout<<"Hello, "<<name<<" !";
+	cout<<"Hello, "<<name<<" !"<<endl;
+	cout<<"**************************"<<endl;
 }
